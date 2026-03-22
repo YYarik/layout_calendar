@@ -40,7 +40,7 @@ body {
     align-items: center;
     border: $border;
     box-sizing: border-box;
-    transition: all 200ms;
+    transition: all 0.5s;
 
     &:hover {
       background-color: $cell-color-hover;
